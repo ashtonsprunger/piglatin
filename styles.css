@@ -29,6 +29,7 @@ form button{
     color: greenyellow;
     border: none;
     padding: 4px 15px;
+    cursor: pointer;
 }
 #results{
     text-align: center;
